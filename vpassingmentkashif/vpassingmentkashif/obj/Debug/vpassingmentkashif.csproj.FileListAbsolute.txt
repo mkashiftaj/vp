@@ -1,0 +1,6 @@
+c:\users\kashif\documents\visual studio 2013\Projects\vpassingmentkashif\vpassingmentkashif\bin\Debug\vpassingmentkashif.exe.config
+c:\users\kashif\documents\visual studio 2013\Projects\vpassingmentkashif\vpassingmentkashif\bin\Debug\vpassingmentkashif.exe
+c:\users\kashif\documents\visual studio 2013\Projects\vpassingmentkashif\vpassingmentkashif\bin\Debug\vpassingmentkashif.pdb
+c:\users\kashif\documents\visual studio 2013\Projects\vpassingmentkashif\vpassingmentkashif\obj\Debug\vpassingmentkashif.exe
+c:\users\kashif\documents\visual studio 2013\Projects\vpassingmentkashif\vpassingmentkashif\obj\Debug\vpassingmentkashif.pdb
+C:\Users\kashif\documents\visual studio 2013\Projects\vpassingmentkashif\vpassingmentkashif\obj\Debug\vpassingmentkashif.csprojResolveAssemblyReference.cache
