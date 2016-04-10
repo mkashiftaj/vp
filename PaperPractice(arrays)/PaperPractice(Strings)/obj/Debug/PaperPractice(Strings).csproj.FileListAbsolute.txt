@@ -1,0 +1,6 @@
+c:\users\kashif\documents\visual studio 2013\Projects\PaperPractice(Strings)\PaperPractice(Strings)\bin\Debug\PaperPractice(Strings).exe.config
+c:\users\kashif\documents\visual studio 2013\Projects\PaperPractice(Strings)\PaperPractice(Strings)\bin\Debug\PaperPractice(Strings).exe
+c:\users\kashif\documents\visual studio 2013\Projects\PaperPractice(Strings)\PaperPractice(Strings)\bin\Debug\PaperPractice(Strings).pdb
+c:\users\kashif\documents\visual studio 2013\Projects\PaperPractice(Strings)\PaperPractice(Strings)\obj\Debug\PaperPractice(Strings).csprojResolveAssemblyReference.cache
+c:\users\kashif\documents\visual studio 2013\Projects\PaperPractice(Strings)\PaperPractice(Strings)\obj\Debug\PaperPractice(Strings).exe
+c:\users\kashif\documents\visual studio 2013\Projects\PaperPractice(Strings)\PaperPractice(Strings)\obj\Debug\PaperPractice(Strings).pdb
