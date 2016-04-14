@@ -1,1 +1,9 @@
 E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\bin\Debug\AlgebricEqSolver.exe.config
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\bin\Debug\AlgebricEqSolver.exe
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\bin\Debug\AlgebricEqSolver.pdb
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.csprojResolveAssemblyReference.cache
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.Form1.resources
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.Properties.Resources.resources
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.csproj.GenerateResource.Cache
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.exe
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.pdb

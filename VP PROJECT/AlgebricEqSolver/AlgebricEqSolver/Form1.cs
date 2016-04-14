@@ -16,5 +16,10 @@ namespace AlgebricEqSolver
         {
             InitializeComponent();
         }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            comboBox1.Items.Add("a2" + "\x00B2");
+        }
     }
 }
