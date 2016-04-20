@@ -2,8 +2,23 @@ E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\bin\Debug\AlgebricEqSolver.ex
 E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\bin\Debug\AlgebricEqSolver.exe
 E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\bin\Debug\AlgebricEqSolver.pdb
 E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.csprojResolveAssemblyReference.cache
-E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.Form1.resources
 E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.Properties.Resources.resources
 E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.csproj.GenerateResource.Cache
 E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.exe
 E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.pdb
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.slForm.resources
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.valuesform.resources
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.QEqform.resources
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.LEqform.resources
+C:\Users\kashif\Desktop\test\AlgebricEqSolver\AlgebricEqSolver\bin\Debug\AlgebricEqSolver.exe.config
+C:\Users\kashif\Desktop\test\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.exe
+C:\Users\kashif\Desktop\test\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.pdb
+C:\Users\kashif\Desktop\test\AlgebricEqSolver\AlgebricEqSolver\bin\Debug\AlgebricEqSolver.exe
+C:\Users\kashif\Desktop\test\AlgebricEqSolver\AlgebricEqSolver\bin\Debug\AlgebricEqSolver.pdb
+C:\Users\kashif\Desktop\test\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.csprojResolveAssemblyReference.cache
+C:\Users\kashif\Desktop\test\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.QEqform.resources
+C:\Users\kashif\Desktop\test\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.slForm.resources
+C:\Users\kashif\Desktop\test\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.LEqform.resources
+C:\Users\kashif\Desktop\test\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.Properties.Resources.resources
+C:\Users\kashif\Desktop\test\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.Valuesform.resources
+C:\Users\kashif\Desktop\test\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.csproj.GenerateResource.Cache
