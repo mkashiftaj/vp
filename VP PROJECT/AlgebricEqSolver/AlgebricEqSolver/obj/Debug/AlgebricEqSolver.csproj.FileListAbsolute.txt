@@ -1,15 +1,4 @@
-E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\bin\Debug\AlgebricEqSolver.exe.config
 E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\bin\Debug\AlgebricEqSolver.exe
-E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\bin\Debug\AlgebricEqSolver.pdb
-E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.csprojResolveAssemblyReference.cache
-E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.Properties.Resources.resources
-E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.csproj.GenerateResource.Cache
-E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.exe
-E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.pdb
-E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.slForm.resources
-E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.valuesform.resources
-E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.QEqform.resources
-E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.LEqform.resources
 C:\Users\kashif\Desktop\test\AlgebricEqSolver\AlgebricEqSolver\bin\Debug\AlgebricEqSolver.exe.config
 C:\Users\kashif\Desktop\test\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.exe
 C:\Users\kashif\Desktop\test\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.pdb
@@ -22,3 +11,16 @@ C:\Users\kashif\Desktop\test\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\Algebri
 C:\Users\kashif\Desktop\test\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.Properties.Resources.resources
 C:\Users\kashif\Desktop\test\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.Valuesform.resources
 C:\Users\kashif\Desktop\test\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.csproj.GenerateResource.Cache
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\bin\Debug\AlgebricEqSolver.exe.config
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.QEqform.resources
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.slForm.resources
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.LEqform.resources
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.Properties.Resources.resources
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.csproj.GenerateResource.Cache
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.exe
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.pdb
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\bin\Debug\AlgebricEqSolver.pdb
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.csprojResolveAssemblyReference.cache
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.ProjectileMotion.resources
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.FormSlope.resources
+E:\vp\VP PROJECT\AlgebricEqSolver\AlgebricEqSolver\obj\Debug\AlgebricEqSolver.Simulation_form.resources
